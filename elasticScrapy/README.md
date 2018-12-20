@@ -1,0 +1,1 @@
+This project scrapes web docs from www.turoialspoint.com and load to local Elastic Search.
